@@ -4,6 +4,10 @@ jupyter contrib nbextension install --user
 #jupyter nbextension enable collapsible_headings/main
 #jupyter nbextension enable hide_input/main
 #jupyter nbextension enable init_cell/main
+jupyter nbextension enable --py --sys-pref
+ix qgrid
+
+
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust docs/DEMO.ipynb
