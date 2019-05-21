@@ -19,6 +19,7 @@ jupyter-client==5.2.4
 jupyter-contrib-core==0.3.3
 jupyter-core==4.4.0
 jupyter-nbextensions-configurator==0.4.1
+lxml==4.3.3
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbconvert==5.5.0
@@ -40,6 +41,7 @@ python-dateutil==2.8.0
 pytz==2019.1
 PyYAML==5.1
 pyzmq==18.0.1
+qgrid==1.1.1
 requests==2.21.0
 Send2Trash==1.5.0
 six==1.12.0
