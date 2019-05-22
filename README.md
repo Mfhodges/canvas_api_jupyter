@@ -2,7 +2,7 @@
 Interactive Jupyter notebook for creating Canvas reports
 
 ## Current
-Here's a functionaly version   
+Here's a fully functional version   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mfhodges/canvas_api_jupyter/master?filepath=%2Fdocs%2FDEMO.ipynb)
 
 
