@@ -5,12 +5,12 @@ want to use binder for your own jupyter notebooks - check out: https://mybinder.
 
 ## Current
 Here's a fully functional version   
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mfhodges/canvas_api_jupyter/master?filepath=%2Fdocs%2FDEMO.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mfhodges/canvas_api_jupyter/master)
 
 
 ## Beta
 Here's the most current - there may be some bugs 🐛  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mfhodges/canvas_api_jupyter/dev?filepath=%2Fdocs%2FDEMO.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mfhodges/canvas_api_jupyter/dev)
 
 
 
